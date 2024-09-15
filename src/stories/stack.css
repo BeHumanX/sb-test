@@ -1,0 +1,22 @@
+
+.storybook-stack {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 1rem;
+    flex-direction: row;
+    border-radius: 1rem;
+    text-align: center;
+  }
+  
+  .storybook-stack--row {
+    flex-direction: row;
+    
+  }
+  
+  .storybook-stack--column {
+    flex-direction: column;
+  }
+  
+  .storybook-stack--wrap {
+    flex-wrap: wrap;
+  }
