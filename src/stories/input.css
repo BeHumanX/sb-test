@@ -1,0 +1,18 @@
+.storybook-input {
+  width: 150px;
+  height: 30px;
+  border: 1px solid #a0a0a0;
+  background-color: #b8b8b8;
+  border-radius: 8px;
+  font-family: "Monofonto";
+  color: #5c5c5c;
+}
+.storybook-input:focus {
+  background-color: #9c9c9c;
+  border: 2px solid #525252;
+  color: #3a3a3a;
+}
+.storybook-input:hover {
+  color: #3a3a3a;
+  background-color: #9c9c9c;
+}

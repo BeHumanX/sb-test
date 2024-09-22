@@ -1,0 +1,19 @@
+.storybook-heading {
+    display: inline-block;
+    vertical-align: top;
+    margin: 6px 0 6px 10px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1;
+    font-family: "Monofonto";
+  }
+
+.storybook-heading--small{
+    font-size: 12px;
+}
+.storybook-heading--medium{
+    font-size: 14px;
+}
+.storybook-heading--large{
+    font-size: 20px;
+}
